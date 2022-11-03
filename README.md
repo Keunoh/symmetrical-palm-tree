@@ -1,5 +1,4 @@
 # symmetrical-palm-tree
 Clone coding for better understanding about HTML and CSS🦴 + 🦚 -> 🧞‍♂️
 
-ol(ordered list) -> 숫자가 차례대로 붙는 리스트  
-ul(unordered list) -> 점이 붙는 리스트
+- html 태그 관련 문서를 보려면 항상 태그 뒤에 mdn으로 입력해서 검색해준다.
