@@ -12,17 +12,13 @@
     </head>
     <body>
         <img src="img/logo.jpg">
-        <p>Hello <abbr title="Cascading Style Sheets">CSS</abbr></p>
-        <code>Hello</code>
-        <p>what is <mark>this</mark></p>
-        <p>2<sup>5</sup></p>
-        <audio 
-            controls
-            autoplay
-            src="https://interactive-examples.mdn.mozilla.net/media/cc0-audio/t-rex-roar.mp3"
-        />
-        <dialog>
-            <p>kakarot!</p>
-        </dialog>
+        <form>
+            <input type="file" />
+            <input required placeholder="Name" type="text" />
+            <input required placeholder="Username" type="text" />
+            <input required placeholder="Last Name" type="text" />
+            <input required placeholder="Password" minlength="10" type="password" />
+            <input type="submit" value="Create Account">
+        </form>
     </body>
 </html>
