@@ -2,4 +2,4 @@
 Clone coding for better understanding about HTML and CSS🦴 + 🦚 -> 🧞‍♂️
 
 - <ol> -> ordered list
-  - 숫자가 차례대로 붙는 리스트
+- 숫자가 차례대로 붙는 리스트
