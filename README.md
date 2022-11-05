@@ -7,5 +7,6 @@ Clone coding for better understanding about HTML and CSS🦴 + 🦚 -> 🧞‍�
 - inline은 height와 width를 가질 수 없다!
 - block은 height와 width가 있다.
 - box는 3가지 property를 가지고 있다(margin, border, padding)
-  - maring : box의 경계로부터 바깥에 있는 공간
+  - margin : box의 경계로부터 바깥에 있는 공간
   - collapsing margin : 상하에서만 일어나는 마진합침 현상
+  - padding : box의 경계로부터 안 쪽에 있는 공간
