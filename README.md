@@ -8,3 +8,4 @@ Clone coding for better understanding about HTML and CSS🦴 + 🦚 -> 🧞‍�
 - block은 height와 width가 있다.
 - box는 3가지 property를 가지고 있다(margin, border, padding)
   - maring : box의 경계로부터 바깥에 있는 공간
+  - collapsing margin : 상하에서만 일어나는 마진합침 현상
