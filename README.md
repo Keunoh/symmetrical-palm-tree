@@ -10,3 +10,4 @@ Clone coding for better understanding about HTML and CSS🦴 + 🦚 -> 🧞‍�
   - margin : box의 경계로부터 바깥에 있는 공간
   - collapsing margin : 상하에서만 일어나는 마진합침 현상
   - padding : box의 경계로부터 안 쪽에 있는 공간
+  - border : 말그대로 경계
