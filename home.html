@@ -6,44 +6,24 @@
     href="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico">
   <title>The Keunoh Times</title>
   <style>
-    * {
-      border: 5px dashed black;
-    }
-
-    html {
-      background-color: tomato;
-    }
-
     body {
+      height: 1000vh;
       margin: 20px;
-      padding: 20px;
-      background-color: thistle;
     }
 
     div {
-      padding: 20px;
+      color: white;
+      width: 300px;
+      height: 300px;
+      
     }
-
-    #first {
-      background-color: whitesmoke;
-      width: 150px;
-      height: 150px;
-    }
-
-    #second {
+    #green {
+      position: fixed;
       background-color: teal;
-      width: 100px;
-      height: 100px;
+      opacity: 0.2;
     }
-
-    #third {
+    #different {
       background-color: wheat;
-      width: 50;
-      height: 50px;
-    }
-
-    span {
-      border-style: dotted;
     }
   </style>
   <meta charset="utf-8" />
@@ -52,13 +32,8 @@
 </head>
 
 <body>
-  <div id="first">
-    <div id="second">
-      <div id="third">
-        <span>hello</span>
-      </div>
-    </div>
-  </div>
+  <div id="green"></div>
+  <div id="different"></div>
 </body>
 
 </html>
